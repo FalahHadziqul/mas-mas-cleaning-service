@@ -25,7 +25,7 @@ international_matches,home_team,Negara yang bermain sebagai tim tuan rumah
 international_matches,home_goals,Gol yang dicetak oleh tim tuan rumah
 international_matches,away_goals,Gol yang dicetak oleh tim tamu
 international_matches,away_team,Negara yang bermain sebagai tim tamu
-international_matches,win_conditions,Apakah pertandingan diputuskan melalui adu penalti?
+international_matches,win_condition,Apakah pertandingan diputuskan melalui adu penalti?
 international_matches,home_stadium,"TRUE ketika pertandingan berlangsung di negara tim tuan rumah, FALSE jika sebaliknya"
 world_cup_players,id,Identifier unik untuk pemain
 world_cup_players,team,Negara yang diperkuat oleh pemain
