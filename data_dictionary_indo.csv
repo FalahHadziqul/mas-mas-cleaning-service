@@ -1,0 +1,42 @@
+table,field,description
+world_cups,year,Tahun diadakannya Piala Dunia
+world_cups,host_country,Negara yang menjadi tuan rumah turnamen
+world_cups,winner,Negara yang memenangkan turnamen
+world_cups,runners_up,Negara yang meraih posisi kedua
+world_cups,third,Negara yang meraih posisi ketiga
+world_cups,fourth,Negara yang meraih posisi keempat
+world_cups,goals_scored,Total gol yang dicetak selama turnamen
+world_cups,qualified_teams,Total tim yang berpartisipasi dalam turnamen
+world_cups,matches_played,Total pertandingan yang dimainkan selama turnamen
+world_cup_matches,id,Identifier unik untuk pertandingan
+world_cup_matches,year,Tahun diadakannya Piala Dunia
+world_cup_matches,date,Tanggal pertandingan
+world_cup_matches,stage,Tahap dalam turnamen (Piala Dunia terdahulu memiliki format yang berbeda)
+world_cup_matches,home_team,Negara yang bermain sebagai tim tuan rumah
+world_cup_matches,home_goals,Gol yang dicetak oleh tim tuan rumah
+world_cup_matches,away_goals,Gol yang dicetak oleh tim tamu
+world_cup_matches,away_team,Negara yang bermain sebagai tim tamu
+world_cup_matches,win_conditions,Apakah pertandingan diputuskan dalam perpanjangan waktu, golden goal, atau adu penalti?
+world_cup_matches,host_team,"TRUE ketika negara tuan rumah bermain sebagai tim tuan rumah dalam pertandingan, FALSE jika sebaliknya"
+international_matches,id,Identifier unik untuk pertandingan
+international_matches,tournament,Turnamen tempat pertandingan berlangsung (juga bisa berupa laga Persahabatan)
+international_matches,date,Tanggal pertandingan
+international_matches,home_team,Negara yang bermain sebagai tim tuan rumah
+international_matches,home_goals,Gol yang dicetak oleh tim tuan rumah
+international_matches,away_goals,Gol yang dicetak oleh tim tamu
+international_matches,away_team,Negara yang bermain sebagai tim tamu
+international_matches,win_conditions,Apakah pertandingan diputuskan melalui adu penalti?
+international_matches,home_stadium,"TRUE ketika pertandingan berlangsung di negara tim tuan rumah, FALSE jika sebaliknya"
+world_cup_players,id,Identifier unik untuk pemain
+world_cup_players,team,Negara yang diperkuat oleh pemain
+world_cup_players,position,"Posisi pemain dalam tim (Penjaga Gawang, Bek, Gelandang, atau Penyerang)"
+world_cup_players,name,Nama pemain
+world_cup_players,age,Usia pemain
+world_cup_players,caps,Jumlah pertandingan yang dimainkan bersama tim nasional
+world_cup_players,goals,Gol yang dicetak untuk tim nasional
+world_cup_players,wc_goals,Gol Piala Dunia yang dicetak untuk tim nasional
+world_cup_players,league,Negara liga domestik tempat pemain bermain
+world_cup_players,club,Klub domestik tempat pemain bermain
+world_cup_squads,team,Nama negara
+world_cup_squads,fifa_ranking,Peringkat FIFA saat ini
+world_cup_squads,federation,"Konfederasi FIFA tempat negara tersebut bernaung (UEFA, CONMEBOL, CONCACAF, CAF, AFC, OFC, atau Unknown)"

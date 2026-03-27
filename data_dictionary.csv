@@ -8,42 +8,35 @@ world_cups,fourth,Country that received fourth place
 world_cups,goals_scored,Total number of goals scored in the tournament
 world_cups,qualified_teams,Total number of teams that participated in the tournament
 world_cups,matches_played,Total number of matches played in the tournament
-world_cup_groups,group,"Group for the first stage of the tournament (countries play each team in their group once, the top 2 advance - wins are 3 points, draws are 1 point, losses are 0 points)"
-world_cup_groups,team,Country name
-world_cup_groups,fifa_ranking,Current FIFA Ranking
-world_cup_squads,id,Unique identifier for the player
-world_cup_squads,team,Country the player plays for
-world_cup_squads,position,"Position the player plays on the team (Goalkeeper, Defender, Midfielder, or Forward)"
-world_cup_squads,name,Player name
-world_cup_squads,age,Player age
-world_cup_squads,caps,Matches played with the national team
-world_cup_squads,goals,Goals scored for the national team
-world_cup_squads,wc_goals,World Cup goals scored for the national team
-world_cup_squads,league,Country for the domestic league the player plays in
-world_cup_squads,club,Domestic club the player plays for
-2022_world_cup_matches,id,Unique identifier for the match
-2022_world_cup_matches,year,Year in which the World Cup will take place
-2022_world_cup_matches,date,Data of the match
-2022_world_cup_matches,stage,Stage in the tournament
-2022_world_cup_matches,home_team,"Country playing as the home team (in the Round of 16, this is shown as the winner of each group; in the rest of the knockout stages, this is shown as the winner or loser of each match ID)"
-2022_world_cup_matches,away_team,"Country playing as the away team  (in the Round of 16, this is shown as the runner-up of each group; in the rest of the knockout stages, this is shown as the winner or loser of each match ID)"
-2022_world_cup_matches,host_team,"TRUE whenever the host country is playing as the home team in the match, FALSE otherwise"
 world_cup_matches,id,Unique identifier for the match
 world_cup_matches,year,Year in which the World Cup took place
-world_cup_matches,date,Data of the match
+world_cup_matches,date,Date of the match
 world_cup_matches,stage,Stage in the tournament (previous World Cups had different formats)
 world_cup_matches,home_team,Country playing as the home team
 world_cup_matches,home_goals,Goals scored by the home team
 world_cup_matches,away_goals,Goals scored by the away team
 world_cup_matches,away_team,Country playing as the away team
-world_cup_matches,win_conditions,"Was the match decided in extra time, by golden goal (no longer applicable), or penalties?"
+world_cup_matches,win_conditions,Was the match decided in extra time, by golden goal, or penalties?
 world_cup_matches,host_team,"TRUE whenever the host country is playing as the home team in the match, FALSE otherwise"
 international_matches,id,Unique identifier for the match
 international_matches,tournament,Tournament the match was a part of (can also be a Friendly)
-international_matches,date,Data of the match
+international_matches,date,Date of the match
 international_matches,home_team,Country playing as the home team
 international_matches,home_goals,Goals scored by the home team
 international_matches,away_goals,Goals scored by the away team
 international_matches,away_team,Country playing as the away team
 international_matches,win_conditions,Was the match decided by penalties?
 international_matches,home_stadium,"TRUE whenever the game took place in the home team's country, FALSE otherwise"
+world_cup_players,id,Unique identifier for the player
+world_cup_players,team,Country the player plays for
+world_cup_players,position,"Position the player plays on the team (Goalkeeper, Defender, Midfielder, or Forward)"
+world_cup_players,name,Player name
+world_cup_players,age,Player age
+world_cup_players,caps,Matches played with the national team
+world_cup_players,goals,Goals scored for the national team
+world_cup_players,wc_goals,World Cup goals scored for the national team
+world_cup_players,league,Country for the domestic league the player plays in
+world_cup_players,club,Domestic club the player plays for
+world_cup_squads,team,Country name
+world_cup_squads,fifa_ranking,Current FIFA Ranking
+world_cup_squads,federation,"FIFA confederation the team belongs to (UEFA, CONMEBOL, CONCACAF, CAF, AFC, OFC, or Unknown)"
