@@ -38,5 +38,5 @@ world_cup_players,wc_goals,Gol Piala Dunia yang dicetak untuk tim nasional
 world_cup_players,league,Negara liga domestik tempat pemain bermain
 world_cup_players,club,Klub domestik tempat pemain bermain
 world_cup_squads,team,Nama negara
-world_cup_squads,fifa_ranking,Peringkat FIFA saat ini
+world_cup_squads,fifa_ranking,Peringkat FIFA saat sekitar 2022
 world_cup_squads,federation,"Konfederasi FIFA tempat negara tersebut bernaung (UEFA, CONMEBOL, CONCACAF, CAF, AFC, OFC, atau Unknown)"
