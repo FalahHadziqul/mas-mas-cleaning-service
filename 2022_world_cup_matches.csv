@@ -47,19 +47,19 @@ ID,Year,Date,Stage,Home Team,Away Team,Host Team
 46,2022,2022-12-02,Group stage,South Korea,Portugal,FALSE
 47,2022,2022-12-02,Group stage,Serbia,Switzerland,FALSE
 48,2022,2022-12-02,Group stage,Brazil,Cameroon,FALSE
-49,2022,2022-12-03,Round of 16,1A,2B,
-50,2022,2022-12-03,Round of 16,1C,2D,
-51,2022,2022-12-04,Round of 16,1B,2A,
-52,2022,2022-12-04,Round of 16,1D,2C,
-53,2022,2022-12-05,Round of 16,1E,2F,
-54,2022,2022-12-05,Round of 16,1G,2H,
-55,2022,2022-12-06,Round of 16,1F,2E,
-56,2022,2022-12-06,Round of 16,1H,2G,
-57,2022,2022-12-09,Quarter-finals,W49,W50,
-58,2022,2022-12-09,Quarter-finals,W53,W54,
-59,2022,2022-12-10,Quarter-finals,W51,W52,
-60,2022,2022-12-10,Quarter-finals,W55,W56,
-61,2022,2022-12-13,Semi-finals,W57,W58,
-62,2022,2022-12-14,Semi-finals,W59,W60,
-63,2022,2022-12-17,Third place,L61,L62,
-64,2022,2022-12-18,Final,W61,W62,
+49,2022,2022-12-03,Round of 16,Netherlands,USA,FALSE
+50,2022,2022-12-03,Round of 16,Argentina,Australia,FALSE
+51,2022,2022-12-04,Round of 16,England,Senegal,FALSE
+52,2022,2022-12-04,Round of 16,France,Poland,FALSE
+53,2022,2022-12-05,Round of 16,Japan,Croatia,FALSE
+54,2022,2022-12-05,Round of 16,Brazil,South Korea,FALSE
+55,2022,2022-12-06,Round of 16,Morocco,Spain,FALSE
+56,2022,2022-12-06,Round of 16,Portugal,Switzerland,FALSE
+57,2022,2022-12-09,Quarter-finals,Netherlands,Argentina,FALSE
+58,2022,2022-12-09,Quarter-finals,Croatia,Brazil,FALSE
+59,2022,2022-12-10,Quarter-finals,England,France,FALSE
+60,2022,2022-12-10,Quarter-finals,Morocco,Portugal,FALSE
+61,2022,2022-12-13,Semi-finals,Argentina,Croatia,FALSE
+62,2022,2022-12-14,Semi-finals,France,Morocco,FALSE
+63,2022,2022-12-17,Third place,Croatia,Morocco,FALSE
+64,2022,2022-12-18,Final,Argentina,France,FALSE
