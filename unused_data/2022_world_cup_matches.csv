@@ -1,0 +1,65 @@
+id,year,date,stage,home_team,away_team,host_team
+1,2022,2022-11-20,Group stage,Qatar,Ecuador,True
+2,2022,2022-11-21,Group stage,Senegal,Netherlands,False
+3,2022,2022-11-21,Group stage,England,Iran,False
+4,2022,2022-11-21,Group stage,United States,Wales,False
+5,2022,2022-11-22,Group stage,France,Australia,False
+6,2022,2022-11-22,Group stage,Denmark,Tunisia,False
+7,2022,2022-11-22,Group stage,Mexico,Poland,False
+8,2022,2022-11-22,Group stage,Argentina,Saudi Arabia,False
+9,2022,2022-11-23,Group stage,Belgium,Canada,False
+10,2022,2022-11-23,Group stage,Spain,Costa Rica,False
+11,2022,2022-11-23,Group stage,Germany,Japan,False
+12,2022,2022-11-23,Group stage,Morocco,Croatia,False
+13,2022,2022-11-24,Group stage,Switzerland,Cameroon,False
+14,2022,2022-11-24,Group stage,Uruguay,South Korea,False
+15,2022,2022-11-24,Group stage,Portugal,Ghana,False
+16,2022,2022-11-24,Group stage,Brazil,Serbia,False
+17,2022,2022-11-25,Group stage,Iran,Wales,False
+18,2022,2022-11-25,Group stage,Qatar,Senegal,True
+19,2022,2022-11-25,Group stage,Netherlands,Ecuador,False
+20,2022,2022-11-25,Group stage,England,United States,False
+21,2022,2022-11-26,Group stage,Tunisia,Australia,False
+22,2022,2022-11-26,Group stage,Poland,Saudi Arabia,False
+23,2022,2022-11-26,Group stage,France,Denmark,False
+24,2022,2022-11-26,Group stage,Argentina,Mexico,False
+25,2022,2022-11-27,Group stage,Japan,Costa Rica,False
+26,2022,2022-11-27,Group stage,Belgium,Morocco,False
+27,2022,2022-11-27,Group stage,Croatia,Canada,False
+28,2022,2022-11-27,Group stage,Spain,Germany,False
+29,2022,2022-11-28,Group stage,Serbia,Cameroon,False
+30,2022,2022-11-28,Group stage,South Korea,Ghana,False
+31,2022,2022-11-28,Group stage,Brazil,Switzerland,False
+32,2022,2022-11-28,Group stage,Portugal,Uruguay,False
+33,2022,2022-11-29,Group stage,England,Wales,False
+34,2022,2022-11-29,Group stage,Iran,United States,False
+35,2022,2022-11-29,Group stage,Ecuador,Senegal,False
+36,2022,2022-11-29,Group stage,Qatar,Netherlands,True
+37,2022,2022-11-30,Group stage,Denmark,Australia,False
+38,2022,2022-11-30,Group stage,Tunisia,France,False
+39,2022,2022-11-30,Group stage,Poland,Argentina,False
+40,2022,2022-11-30,Group stage,Saudi Arabia,Mexico,False
+41,2022,2022-12-01,Group stage,Croatia,Belgium,False
+42,2022,2022-12-01,Group stage,Canada,Morocco,False
+43,2022,2022-12-01,Group stage,Japan,Spain,False
+44,2022,2022-12-01,Group stage,Costa Rica,Germany,False
+45,2022,2022-12-02,Group stage,Ghana,Uruguay,False
+46,2022,2022-12-02,Group stage,South Korea,Portugal,False
+47,2022,2022-12-02,Group stage,Serbia,Switzerland,False
+48,2022,2022-12-02,Group stage,Brazil,Cameroon,False
+49,2022,2022-12-03,Round of 16,Netherlands,USA,False
+50,2022,2022-12-03,Round of 16,Argentina,Australia,False
+51,2022,2022-12-04,Round of 16,England,Senegal,False
+52,2022,2022-12-04,Round of 16,France,Poland,False
+53,2022,2022-12-05,Round of 16,Japan,Croatia,False
+54,2022,2022-12-05,Round of 16,Brazil,South Korea,False
+55,2022,2022-12-06,Round of 16,Morocco,Spain,False
+56,2022,2022-12-06,Round of 16,Portugal,Switzerland,False
+57,2022,2022-12-09,Quarter-finals,Netherlands,Argentina,False
+58,2022,2022-12-09,Quarter-finals,Croatia,Brazil,False
+59,2022,2022-12-10,Quarter-finals,England,France,False
+60,2022,2022-12-10,Quarter-finals,Morocco,Portugal,False
+61,2022,2022-12-13,Semi-finals,Argentina,Croatia,False
+62,2022,2022-12-14,Semi-finals,France,Morocco,False
+63,2022,2022-12-17,Third place,Croatia,Morocco,False
+64,2022,2022-12-18,Final,Argentina,France,False

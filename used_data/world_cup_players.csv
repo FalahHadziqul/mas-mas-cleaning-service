@@ -1,4 +1,4 @@
-ID,Team,Position,Name,Age,Caps,Goals,WC Goals,League,Club
+id,team,position,name,age,caps,goals,wc_goals,league,club
 1,Ecuador,Goalkeeper,Hern�n Gal�ndez,35,12,0,0,Ecuador,Aucas
 2,Ecuador,Defender,F�lix Torres,25,17,2,0,Mexico,Santos Laguna
 3,Ecuador,Defender,Piero Hincapi�,20,21,1,0,Germany,Bayer Leverkusen
